@@ -11,4 +11,4 @@ NumPy, Pandas, Scikit-learn
 TensorFlow, PyTorch
 Jupyter Notebook
 SQL, PostgreSQL
-Готов к интересным проектам и collaborations в области анализа данных и машинного обучения
+Готова к интересным проектам и collaborations в области анализа данных и машинного обучения
