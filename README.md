@@ -1,16 +1,14 @@
-## Hi there 👋
+Привет! 👋 Меня зовут Светалана, я студентка Казанского федерального университета, увлеченный анализом данных и машинным обучением.
 
-<!--
-**svetlanaZolot/svetlanaZolot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Образование: КФУ. Специальность – прикладная математика и Data Science.
 
-Here are some ideas to get you started:
+💻 Технические навыки:
+Языки программирования: Python
+Направление: Data Science
+Инструменты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+NumPy, Pandas, Scikit-learn
+TensorFlow, PyTorch
+Jupyter Notebook
+SQL, PostgreSQL
+Готов к интересным проектам и collaborations в области анализа данных и машинного обучения
